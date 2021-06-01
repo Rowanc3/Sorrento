@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Sorrento/static/css/main.150626f4.chunk.css",
-    "main.js": "/Sorrento/static/js/main.f1ccbeac.chunk.js",
-    "main.js.map": "/Sorrento/static/js/main.f1ccbeac.chunk.js.map",
+    "main.js": "/Sorrento/static/js/main.633787a5.chunk.js",
+    "main.js.map": "/Sorrento/static/js/main.633787a5.chunk.js.map",
     "runtime-main.js": "/Sorrento/static/js/runtime-main.15f20c4f.js",
     "runtime-main.js.map": "/Sorrento/static/js/runtime-main.15f20c4f.js.map",
     "static/js/2.65ab3e09.chunk.js": "/Sorrento/static/js/2.65ab3e09.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.15f20c4f.js",
     "static/js/2.65ab3e09.chunk.js",
     "static/css/main.150626f4.chunk.css",
-    "static/js/main.f1ccbeac.chunk.js"
+    "static/js/main.633787a5.chunk.js"
   ]
 }
